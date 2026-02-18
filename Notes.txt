@@ -1,0 +1,17 @@
+
+React ka use hota hai single page application banane ke liye
+
+node js - jo bhi other than javascript in browser is node js
+Node js npm  - ye packages ko install karne ke liye apne application me
+node js npx - ye sirf ek baar packages ko chalane/use ke liye in whole app
+
+JSX - javascript syntax extension - ye html jaisa syntax hai jo hum javascript me likh sakte hai and ye react ke sath use hota hai 
+
+
+important --  use hook state and use effect hoook
+
+
+
+commands : 
+
+create react app - npx create-react-app todos-list
