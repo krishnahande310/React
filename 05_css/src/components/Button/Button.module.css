@@ -1,0 +1,8 @@
+.btn{
+    background-color: aqua;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}

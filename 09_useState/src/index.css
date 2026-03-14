@@ -1,0 +1,17 @@
+button{
+    padding: 10px 10px;
+    width: fit-content;
+    background-color: aquamarine;
+    margin: 10px 20px;
+    gap: 10;
+    
+}
+button:hover{
+    background-color: rgb(5, 125, 85);
+}
+h1{
+    padding: 10px 80px;
+    background-color: rgb(200, 138, 46);
+    width: fit-content;
+    margin: 20px;
+}

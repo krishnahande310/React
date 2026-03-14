@@ -1,0 +1,16 @@
+.header{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+}
+
+.btn{
+    margin: 10px;
+    background-color: black;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    width: 50px;
+}
